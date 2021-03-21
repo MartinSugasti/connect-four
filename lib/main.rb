@@ -1,4 +1,4 @@
-require_relative 'game'
+require_relative './game.rb'
 
 loop do
   Game.new.play

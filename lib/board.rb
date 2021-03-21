@@ -1,6 +1,6 @@
 class Board
-  RED = "\u{1F534}"
-  BLUE = "\u{1F535}"
+  RED = "\u{1F534} "
+  BLUE = "\u{1F535} "
 
   def initialize
     @board = Array.new(6) { Array.new(7) }
