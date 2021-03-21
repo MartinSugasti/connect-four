@@ -67,6 +67,9 @@ Style/HashTransformKeys:
 Style/HashTransformValues:
   Enabled: true
 
+Style/Documentation:
+  Enabled: false
+
 AllCops:
   TargetRubyVersion: 2.4
   Exclude:
